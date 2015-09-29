@@ -22,6 +22,7 @@ Other projects using BF-CPP include:
 -  :doc:`/users/xuvtools/index` which uses an adapted version of BF-CPP
    called
    `BlitzBioFormats <http://www.xuvtools.org/devel:libblitzbioformats>`_.
+-  `Video Spot Tracker <http://cismm.cs.unc.edu/downloads/?dl_cat=3>`_ which uses BF-CPP to read all the supported formats.
 
 See the :doc:`build instructions <build>` (:doc:`Windows
 <build-windows>`, :doc:`Mac OS X <build-macosx>`, :doc:`Linux
